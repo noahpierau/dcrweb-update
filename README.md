@@ -1,3 +1,5 @@
+Copy of the decred.org website per 2/12/2024:
+
 # Decred — Money Evolved
   
 Decred is a cryptocurrency designed to upgrade and evolve over time based on the input of its coinholders
